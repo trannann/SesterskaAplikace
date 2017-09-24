@@ -1,0 +1,9 @@
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\bin\Debug\Vsb.UrgentApp.Infrastructure.dll.config
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\bin\Debug\Vsb.UrgentApp.Infrastructure.dll
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\bin\Debug\Vsb.UrgentApp.Infrastructure.pdb
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\obj\Debug\Vsb.UrgentApp.Infrastructure.Db.UrgentAppQueries.resources
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\obj\Debug\Vsb.UrgentApp.Infrastructure.csproj.GenerateResource.Cache
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\obj\Debug\Vsb.UrgentApp.Infrastructure.dll
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Infrastructure\obj\Debug\Vsb.UrgentApp.Infrastructure.pdb

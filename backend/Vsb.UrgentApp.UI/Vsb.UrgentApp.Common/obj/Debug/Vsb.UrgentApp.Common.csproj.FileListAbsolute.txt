@@ -1,0 +1,8 @@
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\bin\Debug\Vsb.UrgentApp.Common.dll.config
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\bin\Debug\Vsb.UrgentApp.Common.dll
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\bin\Debug\Vsb.UrgentApp.Common.pdb
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\obj\Debug\Vsb.UrgentApp.Common.dll
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\obj\Debug\Vsb.UrgentApp.Common.pdb
+C:\Users\trannann\OneDrive\Skola\Ing\Diplomka\urgent\rtls\sw\src\SesterskaAplikace\backend\Vsb.UrgentApp.UI\Vsb.UrgentApp.Common\obj\Debug\Vsb.UrgentApp.Common.csprojResolveAssemblyReference.cache
